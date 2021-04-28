@@ -2,7 +2,8 @@
 - 👀 I’m interested in Web developmebt and AI
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on Web Development Projects
-<p>- 📫 How to reach me : <a href="https://www.linkedin.com/in/sai-achyuth-makam-00338a165/><b>@saiachyuth.m</b></a></p>
+- 📫 How to reach me : 
+  <a href="https://www.linkedin.com/in/sai-achyuth-makam-00338a165/><b>@saiachyuth.m</b></a>
               
 
 <!---
