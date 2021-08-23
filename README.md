@@ -1,5 +1,5 @@
 - 👋 Hello !!!
-- 👀 I’m interested in Web developmebt and AI
+- 👀 I’m interested in Web developmebt
 - 🌱 I’m currently learning Android Studio
 - 💞️ I’m looking to collaborate on Web Development Projects
 - 📫 How to reach me : <a href="https://www.linkedin.com/in/saiachyuthm/"><b>@saiachyuth.m</b></a>
