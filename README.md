@@ -1,7 +1,6 @@
 - 👋 Hello !!!
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning Android Studio
-- 💞️ I’m looking to collaborate on Web Development Projects
+- 👀 I’m interested in Web development and Machine Learning
+- 🌱 I’m currently learning Machine Learning
 - 📫 How to reach me : <a href="https://www.linkedin.com/in/saiachyuthm/"><b>@saiachyuth.m</b></a>
               
 
